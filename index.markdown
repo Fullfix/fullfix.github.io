@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+Welcome to my research blog!
+
+Here I share personal projects and research notes in deep learning,
+with a focus on _optimization methods_ and _model compression_.

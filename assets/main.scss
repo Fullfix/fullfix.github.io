@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter.
+---
+
+@import "minima";
+
+.framed {
+  margin: 1.5rem 0;
+  border: 1px solid #c9d2de;
+  border-left: 4px solid #395b84;
+  border-radius: 10px;
+  background: #f8fbff;
+  box-shadow: 0 1px 2px rgba(24, 39, 75, 0.06);
+}
+
+.statementinner {
+  padding: 1rem 1.25rem;
+}
+
+.statementinner > :first-child {
+  margin-top: 0;
+}
+
+.statementinner > :last-child {
+  margin-bottom: 0;
+}

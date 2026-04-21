@@ -17,6 +17,18 @@
   padding: 1rem 1.25rem;
 }
 
+.algorithm-block {
+  padding: 1rem 1.25rem;
+}
+
+.algorithm-block > :first-child {
+  margin-top: 0;
+}
+
+.algorithm-block > :last-child {
+  margin-bottom: 0;
+}
+
 .statementinner > :first-child {
   margin-top: 0;
 }
